@@ -1,4 +1,6 @@
-We Chat: The Social App Project 🌐
+We Chat: The Social App Project 
+
+
 Welcome to the "We Chat" repository! This project is the first step for our new start-up, a social app inspired by platforms like Facebook and built to be user-friendly and engaging.
 What's Included?
 
